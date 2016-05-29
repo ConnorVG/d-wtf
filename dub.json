@@ -1,0 +1,10 @@
+{
+	"name": "d-wtf",
+	"authors": [ "Connor S. Parks" ],
+    "version": "1.0.0",
+    "targetType": "library",
+	"dependencies": { },
+	"description": "A D-lang implementation of Whole Text Functions.",
+	"copyright": "Copyright © 2016, Connor S. Parks",
+	"license": "Apache-2.0"
+}
