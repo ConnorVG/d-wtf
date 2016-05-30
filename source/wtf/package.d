@@ -1,4 +1,4 @@
 module wtf;
 
-public import wtf.parser;
-public import wtf.generator;
+public import wtf.manager;
+public import wtf.parameter;
